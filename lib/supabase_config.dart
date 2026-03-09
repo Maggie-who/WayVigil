@@ -1,0 +1,2 @@
+const supabaseUrl = 'https://upnrgsieprmarakceasd.supabase.co';
+const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVwbnJnc2llcHJtYXJha2NlYXNkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQwNTE5NTEsImV4cCI6MjA3OTYyNzk1MX0.TPTgx2O-dK1TCPLGDPxlRU5xkcaQyu4ezxN2Iuxwz1I';
